@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Vlad Nedelcu
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
