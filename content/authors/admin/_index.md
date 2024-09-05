@@ -24,7 +24,7 @@ role:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Centre for Language Evolution
+  - name: Centre for Language Evolution, Edinburgh
     url: https://cle.ppls.ed.ac.uk/
 
 # Social network links
@@ -45,6 +45,8 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+
+---
 
 ## About Me
 
