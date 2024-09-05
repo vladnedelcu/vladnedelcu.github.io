@@ -1,8 +1,8 @@
 ---
 title: "The complexity of a language is shaped by the communicative needs of its users and by the hierarchical nature of their social inferences"
 authors:
-- "*Vlad Nedelcu*"
-- and Kenny Smith
+- **Vlad Nedelcu**
+- Kenny Smith
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

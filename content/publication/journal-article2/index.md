@@ -1,9 +1,9 @@
 ---
 title: "Degree of heterogeneity in the contexts of language users mediates the cognitive-communicative trade-off in semantic categorization"
 authors:
-- "*Vlad Nedelcu*"
+- **Vlad Nedelcu**
 - Kenny Smith
-- and Daniel Lassiter
+- Daniel Lassiter
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

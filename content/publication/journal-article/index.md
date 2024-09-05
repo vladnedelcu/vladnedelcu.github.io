@@ -1,9 +1,9 @@
 ---
 title: "Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks"
 authors:
-- "**Vlad Nedelcu**"
+- **Vlad Nedelcu**
 - Daniel Lassiter
-- and Kenny Smith
+- Kenny Smith
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
