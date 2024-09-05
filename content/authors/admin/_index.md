@@ -24,7 +24,7 @@ role:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Centre for Language Evolution, Edinburgh
+  - name: CLE, UoE
     url: https://cle.ppls.ed.ac.uk/
 
 # Social network links
