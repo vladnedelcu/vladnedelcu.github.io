@@ -1,7 +1,7 @@
 ---
 title: "Degree of heterogeneity in the contexts of language users mediates the cognitive-communicative trade-off in semantic categorization"
 authors:
-- **Vlad Nedelcu**
+- Vlad Nedelcu
 - Kenny Smith
 - Daniel Lassiter
 #author_notes:
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://escholarship.org/content/qt2q82m39c/qt2q82m39c.pdf
+url_pdf: https://escholarship.org/content/qt4nb281bw/qt4nb281bw_noSplash_fd650abf28a94abab9bd47ce26ab20b0.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
@@ -62,15 +62,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

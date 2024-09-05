@@ -1,7 +1,7 @@
 ---
 title: "The complexity of a language is shaped by the communicative needs of its users and by the hierarchical nature of their social inferences"
 authors:
-- **Vlad Nedelcu**
+- Vlad Nedelcu
 - Kenny Smith
 #author_notes:
 #- "Equal contribution"
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://escholarship.org/content/qt2q82m39c/qt2q82m39c.pdf
+url_pdf: https://escholarship.org/content/qt4wt4z8tv/qt4wt4z8tv_noSplash_61732295190bb3f88ba6cd4f18e6f5ee.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
@@ -61,15 +61,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
