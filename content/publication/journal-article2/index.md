@@ -1,13 +1,13 @@
 ---
-title: "Variability in communication contexts determines the convexity of semantic category systems emerging in neural networks"
+title: "Degree of heterogeneity in the contexts of language users mediates the cognitive-communicative trade-off in semantic categorization"
 authors:
-- "**Vlad Nedelcu**"
-- Daniel Lassiter
-- and Kenny Smith
+- "*Vlad Nedelcu*"
+- Kenny Smith
+- and Daniel Lassiter
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-07-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the Annual Meeting of the Cognitive Science Society, 46*"
+publication: "*Proceedings of the Annual Meeting of the Cognitive Science Society, 45*"
 publication_short: ""
 
 abstract: Artificial neural networks trained using deep-learning methods to solve a simple reference game by optimizing a task-specific utility develop efficient semantic categorization systems that trade off complexity against informativeness, much like the category systems of human languages do. But what exact type of structures in the semantic space could result in efficient categories, and how are these structures shaped by the contexts of communication? We propose a NN model that moves beyond the minimal dyadic setup and show that the emergence of convexity, a property of semantic systems that facilitates this efficiency, is dependent on the amount of variability in communication contexts across partners. We use a method of input representation based on compositional vector embeddings that is able to achieve a higher level of communication success than regular non-compositional representation methods, and can achieve a better balance between maintaining the structure of the semantic space and optimizing utility.
