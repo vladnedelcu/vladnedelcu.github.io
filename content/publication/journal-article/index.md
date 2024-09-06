@@ -5,7 +5,7 @@ authors:
 - Daniel Lassiter
 - Kenny Smith
 #author_notes:
-#- "Equal contribution"
+#- "Equal contributio"
 #- "Equal contribution"
 date: "2024-07-01T00:00:00Z"
 doi: ""
