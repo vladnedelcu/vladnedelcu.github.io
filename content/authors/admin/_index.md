@@ -41,13 +41,15 @@ profiles:
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
 ---
 
 ## About Me
 
-I'm a PhD student at the University of Edinburgh, advised by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Dan Lassiter](https://danlassiter2.github.io/).
+I'm a final year PhD student at the University of Edinburgh, advised by [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/) and [Dan Lassiter](https://danlassiter2.github.io/), and member of the [Centre for Language Evolution](https://cle.ppls.ed.ac.uk/). I'm interested in understanding how contextual information shapes the evolution of linguistic structure. In my thesis, I explore how variability in referential contexts across a series of successive interactions can affect emerging communication systems on a representational level, in both humans and machines. To this end, I use simulations based on deep learning and Bayesian techniques.
+
+Prior to my PhD, I received my master's degree in Cognitive Science from the University of Edinburgh and a bachelor's degree in Computer Science from the Politehnica University of Bucharest.
