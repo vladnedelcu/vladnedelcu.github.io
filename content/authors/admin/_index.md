@@ -24,7 +24,7 @@ role:
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: CLE, UoE
+  - name: University of Edinburgh
     url: https://cle.ppls.ed.ac.uk/
 
 # Social network links
